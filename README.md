@@ -13,3 +13,8 @@ https://qavppy-bot-test-123.azurewebsites.net/jquery-talkWithBot.html
 
 (Japanese language)
 
+
+##Dependence
+
+* jQuery
+* jquery.cookie
