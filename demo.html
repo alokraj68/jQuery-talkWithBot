@@ -61,7 +61,8 @@
                             "from": user // 同じユーザーからのメッセージであることを認識させるために、fromを入れる
                         }),
                         success: function (obj) {
-                            console.log("talkWithBot:メッセージを送りました！");
+                            alert("talkWithBot:メッセージを送りました！");
+                            $('#input').val("");
                         }
                     });
 
@@ -146,7 +147,7 @@
                                 });
                         }
 
-                    } //init()
+                    }
 
             };
 
