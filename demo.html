@@ -47,6 +47,8 @@
                 // ▼メッセージを送信
                 sendMessage: function (convId, msg) {
 
+                    $('#input').val("送信中...");
+
                     var user = "user_" + convId;
 
                     $.ajax({
