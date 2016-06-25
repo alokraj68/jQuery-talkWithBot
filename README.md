@@ -9,4 +9,5 @@ Have a fun! ;D
 
 ##Live Demo
 
-https://qavppy-bot-test-123.azurewebsites.net/jquery-talkWithBot.html
+https://qavppy-bot-test-123.azurewebsites.net/jquery-talkWithBot.html (Japanese Language)
+
